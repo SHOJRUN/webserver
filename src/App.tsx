@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  const teamName = 'Vova & Yura';
+  const teamName = 'Vova & Yura - super team';
 
   return (
     <>
